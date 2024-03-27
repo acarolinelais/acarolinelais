@@ -15,3 +15,9 @@
 [![Linkedin](https://img.shields.io/badge/-carolinelais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=Lhttps://www.linkedin.com/in/carolinelais/)](https://www.linkedin.com/in/carolinelais/)
 [![Gmail Badge](https://img.shields.io/badge/-carolinelaisgs@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carolinelaisgs@gmail.com)](mailto:carolinelaisgs@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/acarolinelais)
+
+## Github Activity 📊
+
+![Caroline Laís's GitHub stats](https://github-readme-stats.vercel.app/api?username=acarolinelais&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acarolinelais&layout=compact&theme=transparent)
