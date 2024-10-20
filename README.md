@@ -4,7 +4,6 @@
 🌱 I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 I'm studying Computer Science, and I'm always eager to learn and improve in the vast world of technology.\
 ✍️ In my free time, I pursue Graphic Design and Reading as hobbies/side hustles.\
-📄 I’m currently open for a new `job opportunity`, this is [my resume](https://rxresu.me/carolinelais/caroline-lais).
 
 ## Languages and Tools 🛠️ 
 
